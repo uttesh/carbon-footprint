@@ -25,7 +25,7 @@ A React-based web application to calculate your annual carbon footprint. This ap
 
 ## Live Demo 🌐
 
-Check out the live app here: [Carbon Footprint Calculator](https://<your-username>.github.io/carbon-footprint-calculator)
+Check out the live app here: [Carbon Footprint Calculator](https://uttesh.github.io/carbon-footprint)
 
 ---
 
